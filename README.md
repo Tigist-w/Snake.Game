@@ -4,7 +4,7 @@ A classic Snake game built for the web using HTML, CSS, and JavaScript. Simple, 
 
 ## Play Online
 
-[Link to your live demo (if deployed)](https://your-deployed-snake-game-url.com)
+[Live demo ](https://snakegameprojects.netlify.app/)
 
 ## How to Play
 
